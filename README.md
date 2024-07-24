@@ -8,7 +8,7 @@ This repository contains components and metrics essential for computational perf
 ### Compile Standard Functions
 For standard functions like the simulated binary crossover operator, use the following MATLAB command:
 ```matlab
-mex sbx.c
+mex sbx.c```
 
 ### Compile Hypervolume Metric
 The hypervolume metric compilation is more involved and requires the following command:

@@ -13,4 +13,5 @@ mex sbx.c
 
 ### Compile Hypervolume Metric
 The hypervolume metric compilation is more involved and requires the following command:
-mex -DVARIANT=4 Hypervolume MEX.c hv.c avl.c
+```mex -DVARIANT=4 Hypervolume MEX.c hv.c avl.c
+```

@@ -1,4 +1,4 @@
-# Optimized PI Controller Tuning forElectric Vehicle using NSGA-II
+# Optimized PI Controller Tuning for Electric Vehicle using NSGA-II
 Contains implementation of multi-objective optisation for PI turning in EVs using NSGA-II algorithm.
 
 This repository contains components and metrics essential for computational performance, developed in C and accessible in MATLAB via wrappers. To use these functions in MATLAB, they must be compiled for your specific system.
